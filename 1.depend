@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1670165909 source:c:\users\mecha\documents\c\1\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+	"empleados.h"
+
+1670162994 c:\users\mecha\documents\c\1\empresa.h
+
+1670161810 c:\users\mecha\documents\c\1\empleados.h
+
+1670166047 source:c:\users\mecha\documents\c\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+	"empresa.h"
+
+1670161810 source:c:\users\mecha\documents\c\1\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
